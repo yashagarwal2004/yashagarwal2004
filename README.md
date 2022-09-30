@@ -1,4 +1,6 @@
 ### Hi there 👋
+I am Yash Agarwal
+An open source developer
 
 <!--
 **yashagarwal2004/yashagarwal2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
