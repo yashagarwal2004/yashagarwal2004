@@ -1,5 +1,5 @@
 <h1 align="center">Hey! I'm Yash Agarwal 👋</h1>
-<h2 align="center">An Open Source Developer and Competitive Coder </h2>
+<h2 align="center">A Web Developer and Competitive Coder </h2>
 
 
 <!--
